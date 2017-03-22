@@ -18,6 +18,11 @@ public class test6 {
 		for(int i=0;i<a.length;i++){
 		System.out.println(a.toString());
 		System.out.println(a[i]);
+		
+		int b[]={1,2,3,4};
+		for(int j=0;j<a.length;j++){
+		System.out.println(b.toString());
+		System.out.println(b[i]);
 		}
 
 	}
