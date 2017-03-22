@@ -12,6 +12,8 @@ public class test7 {
 	 */
 	public static void main(String[] args) {
 		System.out.println("lihui");
+		System.out.println("lihui");
+		System.out.println("lihui");
 
 	}
 
